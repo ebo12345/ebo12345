@@ -21,13 +21,7 @@ I create high-quality 3D visualizations using modern tools like 3ds Max and Coro
 ## 📁 My Work
 Check out my projects here:  
 - Behance: https://www.behance.net/gallery/238457973/_  
-## 📸 Featured Projects
 
-![Project 1](https://raw.githubusercontent.com/ebo12345/ebo12345/main/FB_IMG_1749338804324.jpg)
-
-![Project 2](https://raw.githubusercontent.com/ebo12345/ebo12345/main/FB_IMG_1758526727195.jpg)
-
-![Project 3](https://raw.githubusercontent.com/ebo12345/ebo12345/main/1234.jpg)
 ---
 
 ## 📫 Contact Me
